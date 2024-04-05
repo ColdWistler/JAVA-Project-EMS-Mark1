@@ -18,7 +18,7 @@ The map is a place holder for now which will later be replaced with a voxel base
 
 |Openbox|Themes|
 |--|--|
-|![ob1](https://user-images.githubusercontent.com/53271289/211343893-c86fbac6-d6ce-42b5-8ac6-3b92ed62a1e7.png)|![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)|
+|![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/e32fc76c-a6ca-4beb-bef0-88265a4aa548)|![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)|
 
 
 
