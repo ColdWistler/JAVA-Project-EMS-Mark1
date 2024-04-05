@@ -20,11 +20,11 @@ The map is a place holder for now which will later be replaced with a voxel base
 |--|--|
 |![ob1][image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/67d37873-055f-4fbf-bac9-eb2ad0c47e87)|![ob2][image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/28e2e9c6-d0d1-4f3a-99ae-ef8a3a28d639)|
 #Dark Mode: Based on Tokyo Night:
-|![ob1]![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/67d37873-055f-4fbf-bac9-eb2ad0c47e87)|
+|![ob1]![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/67d37873-055f-4fbf-bac9-eb2ad0c47e87)||![ob2]![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/28e2e9c6-d0d1-4f3a-99ae-ef8a3a28d639)|
+
 
 
 #Light mode: Based on Gruvbox
-|![ob2]![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/28e2e9c6-d0d1-4f3a-99ae-ef8a3a28d639)|
 
 
 
