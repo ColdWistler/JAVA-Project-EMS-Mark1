@@ -16,13 +16,12 @@ The map is a place holder for now which will later be replaced with a voxel base
 #Login Screen.
 ![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/1315008d-dbeb-4000-a27e-131a235be280)
 
-|Openbox|Themes|
+|Dark Theme|Light Theme|
 |--|--|
-|![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/e32fc76c-a6ca-4beb-bef0-88265a4aa548)|![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)|
+|![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/e32fc76c-a6ca-4beb-bef0-88265a4aa548)|![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/0bbcfc47-2ae8-4311-822f-5b847f0fcece)|
+|Tokyo Night|Gruvbox|
 
 
-
-#Light mode: Based on Gruvbox
 
 
 
