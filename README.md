@@ -16,9 +16,9 @@ The map is a place holder for now which will later be replaced with a voxel base
 #Login Screen.
 ![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/1315008d-dbeb-4000-a27e-131a235be280)
 
-|Dark Mode|Light Mode|
+|Openbox|Themes|
 |--|--|
-
+|![ob1](https://user-images.githubusercontent.com/53271289/211343893-c86fbac6-d6ce-42b5-8ac6-3b92ed62a1e7.png)|![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)|
 #Dark Mode: Based on Tokyo Night:
 |![ob1]![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/67d37873-055f-4fbf-bac9-eb2ad0c47e87)|
 
