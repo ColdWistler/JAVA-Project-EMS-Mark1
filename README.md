@@ -11,7 +11,7 @@ The map is a place holder for now which will later be replaced with a voxel base
 
 # Also includes Light and Dark mode It is a very important fearture trust me.
 
-====================================================================
+=====================================================================
 # Images of the software.
 # Login Screen.
 ![image](https://github.com/ColdWistler/JAVA-Project-EMS-Mark1/assets/53271289/1315008d-dbeb-4000-a27e-131a235be280)
