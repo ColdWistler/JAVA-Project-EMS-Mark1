@@ -10,7 +10,7 @@ Main UI includes data entry points with a guide on what kind of data and a part 
 The map is a place holder for now which will later be replaced with a voxel based dynamic mapping system. once everything is ported to rust or C++.
 
 # Also includes Light and Dark mode It is a very important fearture trust me.
-
+=
 ====================================================================
 # Images of the software.
 # Login Screen.
